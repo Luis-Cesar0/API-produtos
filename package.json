@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "json-server": "^1.0.0-beta.1"
+    "json-server": "^0.17.0"
   },
   "name": "api-sapatos",
   "version": "1.0.0",
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "luis César",
+  "author": "Luis César",
   "license": "ISC",
   "description": ""
 }
