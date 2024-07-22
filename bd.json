@@ -1,0 +1,31 @@
+{
+    "produtos":[
+        {
+            "id": 1,
+            "nome":"produto1",
+            "Descricao": "esse é o produto 1"
+        },
+        {
+            "id": 2,
+            "nome":"produto2",
+            "Descricao": "esse é o produto 2"
+        },
+        {
+            "id": 3,
+            "nome":"produto3",
+            "Descricao": "esse é o produto 3"
+        }
+    ],
+    "usuarios":[
+        {
+            "id":1,
+            "nome": "Usario 1",
+            "email":"user1.name@email.com"
+        },
+        {
+            "id":2,
+            "nome": "Usario 2",
+            "email":"user2.name2@email.com"
+        }
+    ]
+}
